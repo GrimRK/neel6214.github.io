@@ -1,0 +1,36 @@
+
+.header2{
+  background-color: black;
+  color: white;
+  height: 10%;
+  width: 33.33%;
+  float: left; 
+}
+
+.header3{
+    background-color: white;
+ 
+    height: 10%;
+    width: 33.33%;
+    float: left; 
+  }
+.sidebar{
+  background-color: black;
+  width: 60%;
+  height: 80%;
+  float: left;
+
+}
+footer1 {
+  display: block;
+  width : 100%;
+  background-color: black;
+
+}
+.sidebar2{
+  background-color: black;
+  width: 39.9%;
+  height: 80%;
+  float: right;
+  
+}
